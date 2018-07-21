@@ -1,0 +1,18 @@
+body{
+	background-color: pink;
+
+}
+
+h1{
+	background:green;
+	font-family: arial;
+
+}
+ul{
+	color: green;
+	font-size: 20px
+}
+img{
+	display: block;
+	margin: auto;
+}
